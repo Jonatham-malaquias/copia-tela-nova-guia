@@ -117,4 +117,14 @@ body{
 }
 .container .iconesAtalhos .atalho .nome{
     color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.container .iconesAtalhos .atalho .icones i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 24px;
+    width: 24px;
 }
